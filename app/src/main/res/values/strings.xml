@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+
+    <string name="json_data_msg_key">message</string>
+    <string name="json_data_time_key">timeStamp</string>
+    <string name="json_data_consolidation_key">collapse_key</string>
+    <string name="intent_msg_action">com.amazon.sample.admmessenger.ON_MESSAGE</string>
+    <string name="intent_msg_category">com.amazon.sample.admmessenger.MSG_CATEGORY</string>
+
+    <!--
+        NOTE: Developer's must replace the following resource strings with their server
+        address and server port.
+    -->
+    <string name="server_address">INSERT_SERVER_ADDRESS_HERE</string>
+    <string name="server_port">8080</string>
+</resources>
